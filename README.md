@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @poonamdhake
-- 👀 I’m interested in software Development
+- 👀 I’m interested in Software Development
 - 🌱 Pursuing MCA at MIT WPU
 - 💞️ I’m looking to collaborate on software development Projects
 - 📫 How to reach me poonamdhake91@gmail.com
